@@ -7,7 +7,12 @@ O trabalho é uma evolução de um projeto anterior desenvolvido pelos alunos:
 
 - André Luís - projeto 4.   
 - Gabriel Jota - projeto 2.
-- 
+
+# Descrição:
+Universidade: PUC Minas 2º semestre de 2024.    
+Curso: Ciência da Computação.   
+Disciplina: Arquitetura de Computadores I.   
+  
 # Integrantes: 
 Filipe Lorenzato Cardoso Rodrigues
 Filipi Pereira de Mesquita Faria
