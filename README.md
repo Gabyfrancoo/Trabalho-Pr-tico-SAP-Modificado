@@ -22,3 +22,6 @@ Disciplina: Arquitetura de Computadores I.
 
 # Orientador:    
 Prof. Dr. Cláudio Dias Campos.   
+
+# Vídeo:
+Link do vídeo no Youtube: [aqui](https://youtu.be/8GMe24uvi_8)   
