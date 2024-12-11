@@ -3,7 +3,7 @@
 Este projeto tem como objetivo a modificação e implementação de um sistema capaz de gerar uma sequência de Fibonacci utilizando a arquitetura do processador SAP-1.
 Foi desenvolvido no contexto da disciplina Arquitetura de Computadores 1.   
 
-O trabalho é uma evolução de um projeto anterior desenvolvido pelos alunos:
+O trabalho é uma evolução de dois projetos anteriores desenvolvidos pelos alunos:   
 
 - André Luís - projeto 4.   
 - Gabriel Jota - projeto 2.
